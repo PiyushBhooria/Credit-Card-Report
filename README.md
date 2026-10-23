@@ -49,9 +49,3 @@ This dashboard analyzes spending habits, transaction methods, and card performan
 1.  **Targeted Marketing:** Marketing campaigns should heavily target individuals in the 40-50 age bracket, specifically focusing on business owners and white-collar professionals in TX, NY, and CA.
 2.  **Product Development:** With the 'Blue' card dominating revenue, there is an opportunity to either increase benefits for the Blue tier to drive loyalty or restructure Silver/Gold/Platinum tiers to incentivize upgrades.
 3.  **Digital Adoption:** Online transaction volumes are remarkably low ($4M). Promoting digital wallet integrations or offering online spending cash-back incentives could drive e-commerce growth.
-
-## How to Use This Repository
-1.  Download the `.pbix` file and the associated `.csv` dataset files.
-2.  Open the `.pbix` file using **Power BI Desktop**.
-3.  If prompted to refresh the data, ensure the file paths in the Power Query Editor point to the local directory where you saved the `.csv` files.
-4.  Navigate through the tabs at the bottom to view the *Customer* and *Transaction* reports.
